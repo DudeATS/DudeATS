@@ -62,7 +62,8 @@
 - 🎥 [YouTube](https://youtube.com/@DudeATS) - My YouTube.
 - 💬 [Discord](https://discord.com/invite/8pGb7QBhNB) - Join my Discord community.
 
-Thanks for visiting my profile! If you would like to contact me feel free to add me on discord. ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+Thanks for visiting my profile! If you would like to contact me feel free to add me on discord. 
 
 ![Screenshot 2024-08-24 130723](https://github.com/user-attachments/assets/0151a056-047e-405c-a793-bf5b10de6588)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
