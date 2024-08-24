@@ -4,7 +4,7 @@
 - 🎒 I am currently a 9th-grade O-Level student specializing in Computer Science.
 - 💻 I can code in **HTML** and **CSS**, and I am learning **JavaScript** and **Python**.
 - 🌐 I like **Web Development** and **Minecraft modding**.
-- 🛠️ And lastly im the owner **Night Client LLC**.
+- 🛠️ And lastly im the owner of **Night Client LLC**.
 
 ## Technologies
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
