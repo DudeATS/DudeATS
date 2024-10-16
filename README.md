@@ -54,7 +54,7 @@
 - A custom Minecraft client that I've been developing with unique features and optimizations. Stay tuned for more updates!
 
 ### Web Development
-- For now, i havent published any websites to the public.
+- https://dudeats.codes
 
 
 ## My socials!
