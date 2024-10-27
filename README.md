@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎒 I am currently a 9th-grade O-Level student specializing in Computer Science.
-- 💻 I can code in **HTML** and **CSS**, and I am learning **Java**.
+- 💻 I can code in **HTML** and **CSS**, and I am nearly done with **Java**.
 - 🌐 I like **Web Development** and **Minecraft modding**.
 - 🛠️ And lastly im the owner of **Night Client LLC**.
 
